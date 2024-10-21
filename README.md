@@ -22,7 +22,7 @@ Add the following dependency to your app module's build.gradle file:
 
 ```gradle
 dependencies {
-    implementation 'com.github.Pankajkkr:AndroidToast:1.0.0'
+     implementation 'com.github.pkrsingh06:AndroidToast:1.0.0'
 }
 ```
 
